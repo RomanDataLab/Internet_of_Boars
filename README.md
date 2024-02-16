@@ -11,10 +11,21 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 - Methods of overlappind map data with Grasshopper and QGIS.
 
 ## data visualization
-### Factsheet of wildboar behaviour in the metropolitan Barcelona 
+### Factsheet of wildboar behaviour in the metropolitan Barcelona.
 ![](IoB-02.png)
-### Processed histogram map depicting the conflict zones
+### Processed histogram map depicting the conflict zones.
 ![](IoB-01.png)
+### Land Cover Map of natural habitats of wild boar in the Metropolitan Barcelona.
+![](IoB-15.png)
+### Generated map of animals' migrations according the resistance codes of land covers.
+![](IoB-18.png)
+### Generated axonometric map of potential conflict points between humans and animals.
+![](IoB-24.png)
+### Generated axonometric map of categorized potential conflict points.
+![](IoB-26.png)
+### Map of potential connections between wild habitats. Approaching resolution.
+![](IoB-32.png)
+
 ##  References
 - "Behavioral state resource selection in invasive wild pigs in the Southeastern United States," [Nature](https://www.nature.com/articles/s41598-021-86363-3#Tab2).
 - "Normal and Abnormal Behaviours of Swine under Production Conditions," [The Pig Site](https://www.thepigsite.com/articles/normal-and-abnormal-behaviours-of-swine-under-production-conditions).
