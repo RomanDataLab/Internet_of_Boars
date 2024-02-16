@@ -9,7 +9,19 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 - Methods of bibliographic analysis.
 - Map vizualisation with Grasshopper using Hops plugin, CORINE Land Cover CLC 2018 from the Earth Engine Data Catalog.
 - Methods of overlappind map data with Grasshopper and QGIS.
-
+## Key takeaways
+- We live in the Anthropocene, when humans have colonized all landscapes and deprived animals of their natural habitats, forcing them to move into "special" natural reserve zones.
+- Natural reserve zones are often disconnected, obstructing animals from migrating.
+- Very often natural landscapes are segmentated by linear infrastructure, industrial and agricultural patches.
+- In contrast, animals are attracted to rich-for-food urbanized areas, and the more they find urban food, the more they are transforming into urban animals, especially this rule applies to the boar.
+- Wild animals invide urban landscapes for food search from segmentated natural habitats, that is perceived by humans as agression and often causes an [urgent negative reaction] (https://www.theanimalreader.com/2022/08/17/news-barcelona-kills-wild-boars-to-protect-humans/)
+- the most invaded-by-animals areas correlate with the most prosperous neighborhoods
+- several options to resolve the conflict: connection of natural landscapes by wildcrossings, seasonal animal rights for the city, collaboration of permaculture farms and animals
+  
+## methodology
+1. Evaluate the best way of data mining in order to get sufficent data for analysis. [source>>](DS3_FIN_11.ipynb)
+2. Calculate the price per sqm for each data entry in the real estate prices dataset.[source>>](DS3_FIN_11.ipynb)
+   
 ## data visualization
 ### Factsheet of wildboar behaviour in the metropolitan Barcelona.
 ![](IoB-02.png)
@@ -30,7 +42,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 ### Map of rewildering connectivity. Wildlife Crossing Tools
 ![](IoB-50.png)
 ### Stakeholders' scheme
-![](stakeholders scheme_cum.jpg)
+![](stakeholders_scheme_cum.jpg)
 ### Sketch masterplan of the pilot wildlife crossing
 ![](IoB-51.png)
 ### Application proposal for monitoring of the project
