@@ -25,6 +25,16 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 ![](IoB-26.png)
 ### Map of potential connections between wild habitats. Approaching resolution.
 ![](IoB-32.png)
+### Processed maps of connectivity corridors
+![](IoB-36.png)
+### Map of rewildering connectivity. Wildlife Crossing Tools
+![](IoB-50.png)
+### Stakeholders' scheme
+![](stakeholders scheme_cum.jpg)
+### Sketch masterplan of the pilot wildlife crossing
+![](IoB-51.png)
+### Application proposal for monitoring of the project
+![](IoB-53.png)
 
 ##  References
 - "Behavioral state resource selection in invasive wild pigs in the Southeastern United States," [Nature](https://www.nature.com/articles/s41598-021-86363-3#Tab2).
