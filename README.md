@@ -19,8 +19,8 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 - several options to resolve the conflict: connection of natural landscapes by wildcrossings, seasonal animal rights for the city, collaboration of permaculture farms and animals
   
 ## methodology
-1. Evaluate the best way of data mining in order to get sufficent data for analysis. [source>>](DS3_FIN_11.ipynb)
-2. Calculate the price per sqm for each data entry in the real estate prices dataset.[source>>](DS3_FIN_11.ipynb)
+1. overlapping data and merging maps with Grasshoper. [source>>](221104_AXO_CONNECTIVITY_LANDUSES_Roman ed02.gh)
+2. generating animal migration.[source>>](221024_Barcelona_Resistance_3D.gh)
    
 ## data visualization
 ### Factsheet of wildboar behaviour in the metropolitan Barcelona.
