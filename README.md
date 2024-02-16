@@ -12,9 +12,9 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 
 ## data visualization
 ### Factsheet of wildboar behaviour in the metropolitan Barcelona 
-![Alt text](visuals/globe_fin.gif)
-### Grasshopper definition of Global hemp production
-![](visuals/globe001.png)
+![](IoB-02.png)
+### Processed histogram map depicting the conflict zones
+![](IoB-01.png)
 ##  References
 - "Behavioral state resource selection in invasive wild pigs in the Southeastern United States," [Nature](https://www.nature.com/articles/s41598-021-86363-3#Tab2).
 - "Normal and Abnormal Behaviours of Swine under Production Conditions," [The Pig Site](https://www.thepigsite.com/articles/normal-and-abnormal-behaviours-of-swine-under-production-conditions).
