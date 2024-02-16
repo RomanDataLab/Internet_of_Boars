@@ -21,6 +21,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 ## methodology
 1. overlapping data and merging maps with Grasshoper. [source>>](221104_AXO_CONNECTIVITY_LANDUSES_Roman ed02.gh)
 2. generating animal migration.[source>>](221024_Barcelona_Resistance_3D.gh)
+3. parametric scheme [source>>](stakeholder scheme connection.gh)
    
 ## data visualization
 ### Factsheet of wildboar behaviour in the metropolitan Barcelona.
