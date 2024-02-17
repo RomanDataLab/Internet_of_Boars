@@ -1,6 +1,6 @@
 # Internet of Boars
 ## Research of options for coexistence of wild animals with humans within anthropocene landscapes. </br>
-team: Reda Petravičiūtė, Christos Grapas, Roman Pomazan</br>
+team: Reda Petravičiūtė, [Christos Grapas](https://github.com/ChristosGrapas), Roman Pomazan</br>
 Research is aimed at identifying lines of conflict between humans and wild boars, diagnosing its preconditions and development, and proposing ways for reconciliation. </br>
 tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, QGIS, illustrator, Photoshop, Urbano.
 ## Questions
