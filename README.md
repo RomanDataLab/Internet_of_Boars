@@ -1,14 +1,22 @@
 # Internet of Boars
 ## Research of options for coexistence of wild animals with humans within anthropocene landscapes. </br>
-Reda Petravičiūtė, Christos Grapas, Roman Pomazan</br>
+team: Reda Petravičiūtė, Christos Grapas, Roman Pomazan</br>
 Research is aimed at identifying lines of conflict between humans and wild boars, diagnosing its preconditions and development, and proposing ways for reconciliation. </br>
 tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, QGIS, illustrator, Photoshop, Urbano.
+## Questions
+- to what extent are humans ready to convert entire planet to a hinterland for extracting fossils to sustain urbanization?
+- how the hinterland is performing a fragmentation of natural habitats and forcibly changes wild animals lifecycles?
+- what is a conflict between humans and animals and where it starts?
+- how big cities change lifecycle of animals and alter their instincts?
+- is there a room for reconciliation of the conflict and how to achieve that? what are options for that, and how they differ from existing practice of conflict-resolution?
 ## What I learned: 
 - Data mining with Earth Engine and Hops plugin for Grasshopper.
 - Data vizualisation of predicted tracing of migration of wild animals.
 - Methods of bibliographic analysis.
 - Map vizualisation with Grasshopper using Hops plugin, CORINE Land Cover CLC 2018 from the Earth Engine Data Catalog.
 - Methods of overlappind map data with Grasshopper and QGIS.
+- Methodology-development of scientific research project.
+- Transfer of unrelated datasets into complex-layered maps
 ## Key takeaways
 - We live in the Anthropocene, when humans have colonized all landscapes and deprived animals of their natural habitats, forcing them to move into "special" natural reserve zones.
 - Natural reserve zones are often disconnected, obstructing animals from migrating.
