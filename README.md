@@ -62,7 +62,6 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 - [Green City and Biodiversity Plan](https://ajuntament.barcelona.cat/ecologiaurbana/en/what-we-do-and-why/green-city-and-biodiversity/green-and-biodiversity-plan)
 - [Barcelona Green Infrastructure and Biodiversity Plan 2020 (PDF)](https://ajuntament.barcelona.cat/ecologiaurbana/sites/default/files/Barcelona%20green%20infrastructure%20and%20biodiversity%20plan%202020.pdf)
 - [Plan for Biodiversity Improvement (PDF)](http://www3.amb.cat/repositori/ESPAIPUBLIC/Pla_millora_biodiversitat.pdf)
-- 
 - "Behavioral state resource selection in invasive wild pigs in the Southeastern United States," [Nature](https://www.nature.com/articles/s41598-021-86363-3#Tab2).
 - "Normal and Abnormal Behaviours of Swine under Production Conditions," [The Pig Site](https://www.thepigsite.com/articles/normal-and-abnormal-behaviours-of-swine-under-production-conditions).
 - González Crespo, "The synurbization of wild boar in the city of Barcelona, Spain, 2020," [TDX](https://www.tdx.cat/handle/10803/671607#page=1).
