@@ -58,6 +58,11 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 ![](IoB-53.png)
 
 ##  References
+- [Rewilding Europe](https://rewildingeurope.com/what-is-rewilding/)
+- [Green City and Biodiversity Plan](https://ajuntament.barcelona.cat/ecologiaurbana/en/what-we-do-and-why/green-city-and-biodiversity/green-and-biodiversity-plan)
+- [Barcelona Green Infrastructure and Biodiversity Plan 2020 (PDF)](https://ajuntament.barcelona.cat/ecologiaurbana/sites/default/files/Barcelona%20green%20infrastructure%20and%20biodiversity%20plan%202020.pdf)
+- [Plan for Biodiversity Improvement (PDF)](http://www3.amb.cat/repositori/ESPAIPUBLIC/Pla_millora_biodiversitat.pdf)
+- 
 - "Behavioral state resource selection in invasive wild pigs in the Southeastern United States," [Nature](https://www.nature.com/articles/s41598-021-86363-3#Tab2).
 - "Normal and Abnormal Behaviours of Swine under Production Conditions," [The Pig Site](https://www.thepigsite.com/articles/normal-and-abnormal-behaviours-of-swine-under-production-conditions).
 - González Crespo, "The synurbization of wild boar in the city of Barcelona, Spain, 2020," [TDX](https://www.tdx.cat/handle/10803/671607#page=1).
@@ -69,3 +74,33 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Circuitscape, 
 - Copernicus CORINE Land Cover CLC 2018, [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_CORINE_V20_100m).
 - GeoMining technology, Iacopo Neri, [GitHub](https://github.com/neriiacopo/GeoMining-EE-Hops).
 - Brad McRae, Viral Shah, Tanmay Mohapatra, and Ranjan Anantharaman. Software [Circuitscape](https://circuitscape.org/).
+- [Green Infrastructure and Ecosystem Services (PDF)](http://mediambient.gencat.cat/web/.content/home/ambits_dactuacio/avaluacio_ambiental/infraestructura_verda_serveis_ecosistemics/infraestructura_verda/20170825-Llibret-web-en.pdf)
+- [Ecological Connectivity Index (Last Page for Index)](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/289)
+- [Agenda Transform 2030 Catalonia for a Better World (PDF)](http://cads.gencat.cat/web/.content/Documents/Informes/2016/Agenda_2030_CAT/CADS-Report_3_2016_The-2030_Agenda_Transform-Catalonia_Improve-the-World.pdf)
+- [INTERNET OF CITIES - CONNECTED COHABITATION in the COMPANION CITY Full Syllabus](https://www.researchgate.net/publication/324648354_Spatial_planning_and_ecological_networks_in_Spain)
+- [Barcelona Air Quality Plan](https://ajuntament.barcelona.cat/ecologiaurbana/en/what-we-do-and-why/green-city-and-biodiversity/green-and-biodiversity-plan)
+- [Environmental Implementation Review 2019 (PDF)](https://ec.europa.eu/environment/eir/pdf/report_es_en.pdf)
+- [Millennium Ecosystem Assessment](https://www.millenniumassessment.org/documents/document.300.aspx.pdf)
+- [Ecosystems and Biodiversity](https://ec.europa.eu/environment/nature/biodiversity/economics/pdf/valuing_ecosystems.pdf)
+- [Strategy for Green Infrastructure and Ecological Connectivity (Slides)](https://es.slideshare.net/iurbanistica/2-estrategia-estatal-de-la-infraestructura-verde-y-de-la-conectividad-y-restauracin-ecolgicas-paula-gil-hernndez-mncn-csic)
+- [The Park Plan](https://freshkillspark.org/the-park/the-park-plan)
+- [Freshkills Park Details](https://www.fieldoperations.net/project-details/project/freshkills-park.html)
+- [Reducing Carbon Emissions: Let Soil and Trees Do the Dirty Work](https://www.worldbank.org/en/news/feature/2018/04/24/reducing-carbon-emissions-let-soil-and-trees-do-the-dirty-work)
+- [Soil Management YouTube Video](https://www.youtube.com/watch?v=BSHR4sUZpcw)
+- [Farmers Save Earth's Soil - The Guardian](https://www.theguardian.com/world/2019/apr/24/farmers-save-earths-soil-conservation-agriculture)
+- [Low Carbon Europe - Practical Guide (PDF)](https://roadmap2050.eu/attachments/files/Volume3_VersionA.pdf)
+- [Negative Carbon Via Ocean Afforestation (PDF)](http://oceanforesters.org/uploads/NegativeCarbonViaOceanAfforestation2012Authors.pdf)
+- [Trenezia](https://waughthistleton.com/trenezia/)
+- [Zero Carbon Super Tall Hybrid Wood](https://www.dialogdesign.ca/stories/zero-carbon-super-tall-hybrid-wood/)
+- [The High Line Design](https://www.thehighline.org/design/)
+- [Detroit Future City](https://www.stoss.net/projects/planning-urbanism/detroit-future-city)
+- [Circular Amsterdam (PDF)](http://icities4greengrowth.in/sites/default/files/casestudyfiles/2018-02/Report%20Circular%20Amsterdam.pdf)
+- [Urban Metabolism Rotterdam (PDF)](https://iabr.nl/media/document/original/urban_metabolism_rotterdam.pdf)
+- [Regen Villages](https://www.effekt.dk/regenvillages)
+- [Urban Village Project](https://www.effekt.dk/urbanvillageproject)
+- [SITMUN](http://sitmun.diba.cat/sitmun2/visor.jsp?app=16&ter=1)
+- [CartoBCN](http://w20.bcn.cat/cartobcn/default.aspx?lang=en)
+- [Instamaps](https://www.instamaps.cat/visor.html?businessid=26c98ad6dd6b07a86f480e23fb6fabe2&3D=false#13/41.4106/2.1609)
+- [Geoportal Cartografia AMB](https://geoportalcartografia.amb.cat/AppGeoportalCartografia2/index.html?locale=en)
+- [OpenMapTiles for Barcelona](https://openmaptiles.com/downloads/europe/spain/barcelona/)
+- [Geoportail Luxembourg](https://map.geoportail.lu/theme/main?zoom=11&X=689358&Y=6379673&layers=395&pk_campaign=geoseo_data&lang=en&version=3&opacities=1&bgLayer=basemap_2015_global)
